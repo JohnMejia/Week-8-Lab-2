@@ -17,7 +17,7 @@ public class MainClass {
 		
 		int age = 2015 - bYear;
 		
-		System.out.printf("Hello %s, you are %d years old today!", name, age);
+		System.out.printf("Hello %s, you are %d years old today!\n", name, age);
 		if(age < 21)
 		{
 			System.out.println("You're not old enough to drink.");
